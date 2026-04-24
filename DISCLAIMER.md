@@ -31,4 +31,4 @@ JEP records objective events without judging legality, intent, or fault. It serv
 
 ## Governing Law
 
-This specification is provided under CC0 1.0 Universal. Users assume all liability for deployment decisions.
+This specification is provided under the MIT License. Users assume all liability for deployment decisions.
